@@ -4,9 +4,15 @@
 
 Follow these steps to run the project on your computer.
 
-### 1. Install Python
+### 1. Install Python, dataset and csv files used from the links given below
 
 Install Python 3.10 or a compatible version supported by the project's MediaPipe installation.
+
+dataset: 1. Alphabets: https://www.kaggle.com/datasets/grassknoted/asl-alphabet?resource=download
+	 
+	 2. Words: https://www.kaggle.com/datasets/shubhambhardwaj01/american-sign-language-image-dataset?resource=download
+
+csv files zip: https://drive.google.com/file/d/1R9ESGFwpy9teZtjIl9mz64glplJMuwpt/view?usp=sharing
 
 Check that Python and pip are available:
 
